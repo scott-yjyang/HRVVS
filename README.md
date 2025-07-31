@@ -64,3 +64,18 @@ python test.py
 
 ## Acknowledgement
 We thank the great work from [VAR](https://github.com/FoundationVision/VAR).
+
+## Citation
+If you find it help, please cite and star this project. 😊
+
+```
+@article{yao2025hrvvs,
+  title={HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors},
+  author={Xincheng Yao and Yijun Yang and Kangwei Guo and Ruiqiang Xiao and Haipeng Zhou and Haisu Tao and 
+      Jian Yang and Lei Zhu},
+  journal={arXiv preprint arXiv:2507.22530},
+  year={2025}
+}
+```
+
+
