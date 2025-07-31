@@ -1,7 +1,7 @@
 # HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors
 
 <!-- <div align="center"> -->
-<!-- [![HRVVS](https://img.shields.io/badge/Paper-HRVVS-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2507.22530) -->
+[![HRVVS](https://img.shields.io/badge/Paper-HRVVS-2b9348.svg?logo=arXiv)](https://arxiv.org/abs/2507.22530)
 <!-- </div> -->
 
 ## Introduction
