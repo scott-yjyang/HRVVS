@@ -10,7 +10,7 @@
 [Ruiqiang Xiao](https://keeplearning-again.github.io/)<sup>1</sup>&nbsp;
 [Haipeng Zhou](https://haipengzhou856.github.io/)<sup>1</sup>&nbsp;
 [Haisu Tao](https://github.com/scott-yjyang/HRVVS)<sup>2</sup>&nbsp;
-[Jian Yang](https://github.com/scott-yjyang/HRVVS)<sup>2</sup><br>
+[Jian Yang](https://github.com/scott-yjyang/HRVVS)<sup>2</sup>&nbsp;
 [Lei Zhu](https://sites.google.com/site/indexlzhu/home)<sup>1,3</sup>&nbsp;
 
 <sup>1</sup> The Hong Kong University of Science and Technology (Guangzhou) &nbsp; <sup>2</sup> Southern Medical University &nbsp; <sup>3</sup> The Hong Kong University of Science and Technology  <sup>*</sup> Project Lead
