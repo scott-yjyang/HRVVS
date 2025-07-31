@@ -4,9 +4,9 @@
 <br>
 <h3>[MICCAI 2025] HRVVS: A High-resolution Video Vasculature Segmentation Network via Hierarchical Autoregressive Residual Priors</h3>
 
-[Xincheng Yao](https://yijun-yang.github.io/)<sup>1</sup>&nbsp;
+[Xincheng Yao](https://github.com/scott-yjyang/HRVVS)<sup>1</sup>&nbsp;
 [Yijun Yang](https://yijun-yang.github.io/)<sup>1,*</sup>&nbsp;
-[Kangwei Guo](https://github.com/scott-yjyang/HRVVS)<sup>1</sup>&nbsp;
+[Kangwei Guo](https://github.com/scott-yjyang/HRVVS)<sup>2</sup>&nbsp;
 [Ruiqiang Xiao](https://keeplearning-again.github.io/)<sup>1</sup>&nbsp;
 [Haipeng Zhou](https://haipengzhou856.github.io/)<sup>1</sup>&nbsp;
 [Haisu Tao](https://github.com/scott-yjyang/HRVVS)<sup>2</sup>&nbsp;
